@@ -2,7 +2,7 @@
 ## Requirements
 - conda create -n ddcrnn_env python=3.7   
 
-- conda activate ddcrnn_env
+conda activate ddcrnn_env
 
 - conda install tensorflow
 - conda install pandas
