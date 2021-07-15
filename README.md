@@ -11,5 +11,5 @@ conda activate ddcrnn_env
 - conda install scipy=1.6.2
 - pip install --upgrade tables
 
-
+cd ddcrnn2.0
 python ddcrnn_train.py --config_filename=data/dcrnn_config.yaml
