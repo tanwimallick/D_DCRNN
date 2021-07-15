@@ -1,0 +1,11 @@
+
+conda create -n ddcrnn_env python=3.7   
+conda install tensorflow
+conda install pandas
+conda install pyaml 
+conda install numpy
+conda install scipy
+pip install --upgrade tables
+
+
+python dcrnn_train.py --config_filename=data/dcrnn_config.yaml
