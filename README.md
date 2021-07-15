@@ -1,3 +1,6 @@
+Download the repo 
+
+$ cd D_DCRNN
 
 ## Requirements
 - conda create -n ddcrnn_env python=3.7   
