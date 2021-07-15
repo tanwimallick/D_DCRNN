@@ -9,4 +9,4 @@
 - pip install --upgrade tables
 
 
-python dcrnn_train.py --config_filename=data/dcrnn_config.yaml
+python dcrnn_train.py --config_filename=data/ddcrnn_config.yaml
