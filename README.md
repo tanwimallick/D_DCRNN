@@ -1,3 +1,5 @@
+# D-DCRNN: Dynamic Diffusion Convolution Recurrent Neural Network for spatio-temporal Forecasting
+
 Download the repo 
 
 $ cd D_DCRNN
